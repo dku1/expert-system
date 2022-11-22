@@ -1,0 +1,23 @@
+{
+  "window": {
+    "bg": "#b85042"
+  },
+  "message": {
+    "bg": "#b85042",
+    "fg": "#000000"
+  },
+  "button": {
+    "labelFrameBgColor": "#a7beae",
+    "width": "42",
+    "bg": "white"
+  },
+  "radioButton": {
+    "bg": "#a7beae",
+    "fg": "#000000"
+  },
+  "text": {
+    "background": "#e7e8d1",
+    "height": "13",
+    "state": "normal"
+  }
+}
